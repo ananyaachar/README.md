@@ -12,4 +12,4 @@ Hi 👋, I'm Ananya R
 
 💻 Tech Stack
 
-![My Skills](https://skillicons.dev/badge?i=html,css,java,c,c++,python,mysql,mongodb,opencv,pandas,react,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=html,css,java,c,c++,python,mysql,mongodb,opencv,pandas,react,git,github,vscode)
