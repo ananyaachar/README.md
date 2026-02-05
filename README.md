@@ -4,3 +4,8 @@ Hi 👋, I'm Ananya R
 🚀 Currently improving my GitHub & building projects
 🌱 Currently learning new programming languages and exploring the cybersecurity concepts 
 ✨ Just a curious being, always learning :)
+
+🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-r-261324306?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:ananya.achar15@gmail.com)
