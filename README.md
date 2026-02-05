@@ -13,3 +13,7 @@ Hi 👋, I'm Ananya R
 💻 Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,java,c,c++,python,mysql,mongodb,opencv,pandas,react,git,github,vscode)
+
+📊 GitHub Stats
+
+![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananyaachar&show_icons=true&theme=dark)
