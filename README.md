@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ananya R</h1>
-<h3 align="center">Information Science Student | Cybersecurity & Web Development Enthusiast</h3>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🌱 Currently building real-world projects
-- 🔐 Interested in Cybersecurity & Privacy Systems
-- 💻 Exploring Web Development & Chrome Extensions
-- 📚 Always learning something new
+- Currently building real-world projects
+- Interested in Cybersecurity & Privacy Systems
+- Exploring Web Development & Chrome Extensions
+- Always learning something new
 
 ---
 
@@ -27,7 +26,6 @@
 
 ## 💻 Tech Stack
 
-### 👩‍💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
