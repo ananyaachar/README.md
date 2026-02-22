@@ -41,12 +41,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
----
-
-## 📌 Featured Project
-
-🔐 **Privacy Guard – Real-Time Visual Privacy Protection System**  
-A Chrome Extension that detects shoulder-surfing attacks using real-time face detection and applies automatic screen blur for protection.
 
 ---
 
