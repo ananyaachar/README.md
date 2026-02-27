@@ -6,7 +6,6 @@
 
 - Currently building real-world projects
 - Interested in Cybersecurity & Privacy Systems
-- Exploring Web Development & Chrome Extensions
 - Always learning something new
 
 ---
